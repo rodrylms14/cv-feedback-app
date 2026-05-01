@@ -1,4 +1,4 @@
-# CV Feedback App 🤖
+# CV Feedback App 
 
 App web que analiza CVs con Inteligencia Artificial y genera feedback detallado para mejorar tu perfil profesional.
 
